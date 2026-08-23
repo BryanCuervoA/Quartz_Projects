@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-22T00:36:44.777Z
-modified: 2026-08-22T12:36:18.335Z
+modified: 2026-08-23T19:36:06.274Z
 ---
 
 > [!quote]- Texto Bíblico Principal: Hechos 17:22-31 (Haz clic para expandir)
@@ -10,7 +10,7 @@ modified: 2026-08-22T12:36:18.335Z
 > **26** De uno solo, Dios hizo todas las naciones del mundo para que habitaran sobre toda la superficie de la tierra, habiendo determinado sus tiempos y las fronteras de los lugares donde viven, **27** para que buscaran a Dios, y de alguna manera, palpando, lo hallen, aunque Él no está lejos de ninguno de nosotros. **28** Porque en Él vivimos, nos movemos y existimos, así como algunos de los poetas de ustedes han dicho: “Porque también nosotros somos linaje Suyo”.
 > **29** Siendo, pues, linaje de Dios, no debemos pensar que la Naturaleza Divina sea semejante a oro, plata o piedra, esculpidos por el arte y el pensamiento humano. **30** Por tanto, habiendo pasado por alto los tiempos de ignorancia, Dios declara ahora a todos los hombres, en todas partes, que se arrepientan. **31** Porque Él ha establecido un día en el cual juzgará al mundo en justicia, por medio de un Hombre a quien Él ha designado, habiendo presentado pruebas a todos los hombres cuando lo resucitó de entre los muertos».
 
-> [!info] Ficha Homilética
+> [!info] ¿Qué vamos a ver hoy?
 > **Tema central:** Dios, el creador del mundo y todo lo que en él hay, llama al arrepentimiento a los hombres, porque Él juzgará al mundo en justicia por medio de Cristo.
 >
 > **Pregunta unificadora:** Frente al Dios verdadero ¿Cuál es nuestra condición y cuál es la única vía que nuestro Dios creador ha provisto?
