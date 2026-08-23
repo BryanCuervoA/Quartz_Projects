@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-22T00:36:44.777Z
-modified: 2026-08-23T19:36:06.274Z
+modified: 2026-08-23T19:46:30.852Z
 ---
 
 > [!quote]- Texto Bíblico Principal: Hechos 17:22-31 (Haz clic para expandir)
@@ -51,7 +51,12 @@ Vemos que los griegos **sí** conocían a Dios, su poder y divinidad. Pero no lo
 > [!example] La idolatría de los griegos
 > Así como los judíos hicieron sus becerros de oro, los griegos tenían múltiples dioses como Zeus o Atenea, a los cuales les hacían estatuas y templos.
 
-Volvamos a Hechos. Leamos el **v. 24**: _"El Dios que hizo el mundo y todo lo que en él hay, puesto que es Señor del cielo y de la tierra"_.
+### La Aseidad de Dios (v. 24-25)
+
+> [!bible] Hechos 17:24-25
+> "El Dios que hizo el mundo y todo lo que en él hay, puesto que es Señor del cielo y de la tierra, no mora en templos hechos por manos de hombres, ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas."
+
+Es hermoso, es nuestro creador, somos suyos, y **Él nos creó sin necesitar de nosotros**. Es un atributo de Dios, y se denomina la _aseidad de Dios_, que significa que Él es independiente, existe por sí mismo, es autosuficiente, Él es la fuente de vida. Dios no depende de nada ni nadie para vivir.
 
 Dios es nuestro creador, nuestro Señor, somos suyos. Le debemos honra, gratitud, adoración.
 
@@ -63,28 +68,27 @@ La respuesta es que **somos suyos**.
 > - **Isaías 43:1:** "Mas ahora, así dice el Señor tu Creador... Mío eres tú."
 > - **Isaías 43:7:** "A todo el que es llamado por Mi nombre Y a quien **he creado para Mi gloria**, a quien he formado y a quien he hecho"
 
-### La Aseidad de Dios (v. 24-25)
-
-> [!bible] Hechos 17:24-25
-> "El Dios que hizo el mundo y todo lo que en él hay, puesto que es Señor del cielo y de la tierra, no mora en templos hechos por manos de hombres, ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas."
-
-Es hermoso, es nuestro creador, somos suyos, y **Él nos creó sin necesitar de nosotros**. Es un atributo de Dios, y se denomina la _aseidad de Dios_, que significa que Él es independiente, existe por sí mismo, es autosuficiente, Él es la fuente de vida. Dios no depende de nada ni nadie para vivir.
-
 ### El Diseño Original y la Caída (v. 26-28)
 
 > [!bible] Hechos 17:26-28
 > "De uno solo, Dios hizo todas las naciones del mundo para que habitaran sobre toda la superficie de la tierra, habiendo determinado sus tiempos y las fronteras de los lugares donde viven, para que buscaran a Dios, y de alguna manera, palpando, lo hallen, aunque Él no está lejos de ninguno de nosotros. Porque en Él vivimos, nos movemos y existimos, así como algunos de los poetas de ustedes han dicho: “Porque también nosotros somos linaje Suyo"
 
-Dios nos creó para su gloria, para pertenecerle, para habitar la tierra, y para que le buscáramos. Pero cuando entró el pecado en el mundo, cuando Adán y Eva pecaron, no buscaron a Dios; hicieron todo lo contrario, se escondieron (**Génesis 3:8**).
+**Dios nos creó para su gloria**, para pertenecerle, para habitar la tierra, y para que le buscáramos.
 
 ¿Qué pasó con los griegos? (**v. 29**)
 
 > [!bible] Hechos 17:29
 > "Siendo, pues, linaje de Dios, no debemos pensar que la Naturaleza Divina sea semejante a oro, plata o piedra, esculpidos por el arte y el pensamiento humano"
 
+Pablo les ensañaba que aunque tenían los templos físicos más majestuosos y estatuas asombrosas, Dios no es semejante a oro, plata o piedra.
+
 Solo en Dios vivimos y existimos, y somos su “linaje” (clase, género, familia, pueblo). Dios nos creó a su imagen y semejanza (**Génesis 1:26**).
 
 > [!abstract] Si fuimos creados de esa forma, ¿por qué los griegos querían hacer parecer a Dios como una estatua fabricada de oro, plata o piedra?
+
+Ya vimos que los griegos no adoraban a Dios, no vivían para Él ni le daban gloria y honra al Creador, por el contrario, lo aborrecían con imágenes y templos.
+
+Podrás decir, yo no le hago templos ni estatuas, ¿pero vives para su gloria? ¿Qué nos dice la Biblia al respecto?
 
 ---
 
@@ -93,7 +97,8 @@ Solo en Dios vivimos y existimos, y somos su “linaje” (clase, género, famil
 > [!bible] Hechos 17:30
 > "Por tanto, habiendo pasado por alto los tiempos de ignorancia, Dios declara ahora a todos los hombres, en todas partes, que se arrepientan."
 
-Todos pecamos. Que Dios haya "pasado por alto" no significa que sea indiferente al pecado o que no emita juicio, sino que en su paciencia aún no lo ha ejecutado.
+Todos pecamos y Dios nos llama al arrepentimiento. Que Dios haya "pasado por alto" no significa que sea indiferente al pecado o que no emita juicio, sino que en su paciencia aún no lo ha ejecutado.
+
 No solamente los griegos pecaron, **nosotros también hemos pecado**.
 
 > [!warning] Nuestra Verdadera Condición
