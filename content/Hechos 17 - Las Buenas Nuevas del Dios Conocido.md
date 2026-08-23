@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-22T00:36:44.777Z
-modified: 2026-08-23T19:46:30.852Z
+modified: 2026-08-23T20:13:32.376Z
 ---
 
 > [!quote]- Texto Bíblico Principal: Hechos 17:22-31 (Haz clic para expandir)
@@ -51,6 +51,10 @@ Vemos que los griegos **sí** conocían a Dios, su poder y divinidad. Pero no lo
 > [!example] La idolatría de los griegos
 > Así como los judíos hicieron sus becerros de oro, los griegos tenían múltiples dioses como Zeus o Atenea, a los cuales les hacían estatuas y templos.
 
+![[Pasted image 20260823151309.png]]
+
+![[Pasted image 20260823151331.png]]
+
 ### La Aseidad de Dios (v. 24-25)
 
 > [!bible] Hechos 17:24-25
@@ -84,11 +88,9 @@ Pablo les ensañaba que aunque tenían los templos físicos más majestuosos y e
 
 Solo en Dios vivimos y existimos, y somos su “linaje” (clase, género, familia, pueblo). Dios nos creó a su imagen y semejanza (**Génesis 1:26**).
 
-> [!abstract] Si fuimos creados de esa forma, ¿por qué los griegos querían hacer parecer a Dios como una estatua fabricada de oro, plata o piedra?
-
 Ya vimos que los griegos no adoraban a Dios, no vivían para Él ni le daban gloria y honra al Creador, por el contrario, lo aborrecían con imágenes y templos.
 
-Podrás decir, yo no le hago templos ni estatuas, ¿pero vives para su gloria? ¿Qué nos dice la Biblia al respecto?
+> [!abstract] Podrás decir: "a Dios yo no le he hecho templos ni estatuas" ¿pero vives para su gloria? ¿Hay pecado en ti? ¿Qué nos dice la Biblia al respecto?
 
 ---
 
@@ -104,7 +106,7 @@ No solamente los griegos pecaron, **nosotros también hemos pecado**.
 > [!warning] Nuestra Verdadera Condición
 >
 > - **Romanos 3:23:** "por cuanto todos pecaron y no alcanzan la gloria de Dios."
-> - **Romanos 3:10-12:** "No hay justo, ni aun uno; No hay quien entienda, No hay quien busque a Dios." (Incluso para aquellos que dicen _"Es que yo busco a Dios a mi manera"_).
+> - **Salmo 130:3:** "Señor, si tuvieras en cuenta las iniquidades, ¿Quién, oh Señor, podría permanecer?.
 
 > [!abstract] Si he pecado ante Dios ¿Cómo entonces puedo salvarme de su ira?
 
@@ -115,15 +117,21 @@ No solamente los griegos pecaron, **nosotros también hemos pecado**.
 > [!bible] **Hechos 17:31**
 > "Porque Él ha establecido un día en el cual juzgará al mundo en justicia, por medio de un Hombre a quien Él ha designado, habiendo presentado pruebas a todos los hombres cuando lo resucitó de entre los muertos."
 
+> [!example] Dios demanda justicia
+> Si alguien mata a toda tu familia, tu buscarías justicia de ese mismo instante.
+> Hemos pecado, si Dios hiciera justicia con nosotros no habría esperanza.
+
 Viene un día en el que Dios juzgará a vivos y muertos. Cristo juzgará, Él que resucitó (**Juan 5:22-24**).
 
-> [!quote]- **Juan 5:22-24** Es necesario creer en el Hijo de Dios
-> "Porque ni aun el Padre juzga a nadie, sino que todo juicio se lo ha confiado al Hijo, para que todos honren al Hijo así como honran al Padre. El que no honra al Hijo, no honra al Padre que lo envió. En verdad les digo: el que oye Mi palabra y cree al que me envió, tiene vida eterna y no viene a condenación, sino que ha pasado de muerte a vida".
+Cuando pecamos estamos infringiendo el mandato supremo de amar al Señor nuestro Dios por sobre todas las cosas, y a nuestro prójimo como a nosotros mismos (**Mateo 22:36-40**).
 
-Cuando pecamos infringimos la ley de Dios, infringimos el mandato supremo de amar al Señor nuestro Dios por sobre todas las cosas, y a nuestro prójimo como a nosotros mismos (**Mateo 22:36-40**). Y la Biblia nos dice que no podíamos justificarnos por intentar cumplir esa Ley:
+Y la Biblia nos dice que no podíamos justificarnos por intentar cumplir esa Ley:
 
 > [!check] La Provisión Divina: La Justificación (Romanos 3:20-26)
 > **20** Porque por las obras de la ley ningún ser humano será justificado delante de Él; pues por medio de la ley viene el conocimiento del pecado. **21** Pero ahora, aparte de la ley la justicia de Dios ha sido manifestada, confirmada por la ley y los profetas. **22** Esta justicia de Dios por medio de la fe en Jesucristo es para todos los que creen. Porque no hay distinción, **23** por cuanto todos pecaron y no alcanzan la gloria de Dios. **24** _Todos_ son justificados gratuitamente por Su gracia por medio de la **redención que es en Cristo Jesús, 25 a quien Dios exhibió públicamente como propiciación por Su sangre a través de la fe**, como demostración de Su justicia, porque en Su tolerancia, Dios pasó por alto los pecados cometidos anteriormente, **26** para demostraren este tiempo Su justicia, a fin de que Él sea justo y _sea_ el que justifica al que tiene fe en Jesús.
+
+> [!quote]- **Juan 5:22-24** Es necesario creer en el Hijo de Dios
+> "Porque ni aun el Padre juzga a nadie, sino que todo juicio se lo ha confiado al Hijo, para que todos honren al Hijo así como honran al Padre. El que no honra al Hijo, no honra al Padre que lo envió. En verdad les digo: el que oye Mi palabra y cree al que me envió, tiene vida eterna y no viene a condenación, sino que ha pasado de muerte a vida".
 
 Es necesario creer en Jesús y en Su obra de salvación, en que Él satisfizo la ira de Dios y en que justifica gratuitamente al que cree en Él.
 
