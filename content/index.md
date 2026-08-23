@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-22T12:33:06.274Z
-modified: 2026-08-22T12:33:51.466Z
+modified: 2026-08-23T18:54:33.516Z
 ---
 
-# Bienvenidos a mis Estudios Bíblicos
+# Bienvenidos amados Timoteos
 
-Aquí compartiré los bosquejos y mensajes de la Palabra de Dios.
+Por favor dar clic en el enlace abajo para acceder a la predicación de hoy
 
 ### Prédicas Recientes:
 
